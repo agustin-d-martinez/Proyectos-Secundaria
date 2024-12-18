@@ -1,0 +1,18 @@
+Bill of Material for 
+On 30/10/2018 at 18:25:11
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 100nF               CAP100           1    C1                                                
+ 100nF               CAP200           2    C2, C4                                            
+ 100R                RES400           1    R3                                                
+ 12R                 RES400           1    R4                                                
+ 1N4148              DO41             1    D1                                                
+ 1N5819              DO41             1    D3                                                
+ 1uF                 CAP100RP         1    C3                                                
+ 22K                 RES400           1    R2                                                
+ 2K2                 RES400           1    R1                                                
+ ALIMENTACION        BORNERA2         1    J1                                                
+ ASTABLE             DIP8             1    U1                           Timer                
+ BC337               TO92             1    T1                                                
+ IR908-7C            fotodiodo        1    D2                           Led infrarrojo       

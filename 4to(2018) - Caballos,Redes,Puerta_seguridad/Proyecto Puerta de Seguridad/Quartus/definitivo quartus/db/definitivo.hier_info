@@ -1,0 +1,59 @@
+|definitivo
+puerta <= inst24.DB_MAX_OUTPUT_PORT_TYPE
+on/off => inst24.ACLR
+on/off => inst22.ACLR
+on/off => inst21.ACLR
+on/off => inst19.ACLR
+on/off => inst16.ACLR
+on/off => inst18.IN1
+on/off => inst17.IN0
+on/off => inst20.IN0
+T5 => inst7.IN0
+T4 => inst3.IN0
+T3 => inst2.IN0
+T2 => inst1.IN0
+T1 => inst18.IN0
+p1 <= inst16.DB_MAX_OUTPUT_PORT_TYPE
+p2 <= inst19.DB_MAX_OUTPUT_PORT_TYPE
+p3 <= inst21.DB_MAX_OUTPUT_PORT_TYPE
+p4 <= inst22.DB_MAX_OUTPUT_PORT_TYPE
+T6 => ~NO_FANOUT~
+s1 => ~NO_FANOUT~
+s2 => ~NO_FANOUT~
+s3 => ~NO_FANOUT~
+s5 => ~NO_FANOUT~
+s6 => ~NO_FANOUT~
+s7 => ~NO_FANOUT~
+s8 => ~NO_FANOUT~
+s9 => ~NO_FANOUT~
+s0 => ~NO_FANOUT~
+s4 => ~NO_FANOUT~
+
+
+|definitivo|contador:inst
+1 <= inst22.DB_MAX_OUTPUT_PORT_TYPE
+RESET => inst9.IN0
+CLOCK => inst.CLK
+2 <= inst24.DB_MAX_OUTPUT_PORT_TYPE
+3 <= inst23.DB_MAX_OUTPUT_PORT_TYPE
+4 <= inst26.DB_MAX_OUTPUT_PORT_TYPE
+5 <= inst27.DB_MAX_OUTPUT_PORT_TYPE
+6 <= inst25.DB_MAX_OUTPUT_PORT_TYPE
+7 <= inst28.DB_MAX_OUTPUT_PORT_TYPE
+0 <= inst21.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|definitivo|or_teclado:inst4
+TECLADO <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+S9 => inst2.IN0
+S0 => inst2.IN1
+S1 => inst.IN0
+S3 => inst.IN1
+S2 => inst.IN2
+S4 => inst.IN3
+S6 => inst.IN4
+S5 => inst.IN5
+S7 => inst.IN6
+S8 => inst.IN7
+
+

@@ -1,0 +1,70 @@
+Teardrop Report PCB de PWM.PcbDoc
+On 11/10/2018 at 18:59:55
+
+Pads visited                : 57
+
+Vias visited                : 0
+
+Pad teardrops failed : 0
+
+Pad C5-1(17.907mm,29.956mm)  Multi-Layer
+Pad C5-2(17.907mm,27.956mm)  Multi-Layer
+Pad J3-1(43.688mm,13.502mm)  Multi-Layer
+Pad J3-2(43.688mm,18.502mm)  Multi-Layer
+Pad D2-2(23.622mm,39.572mm)  Multi-Layer
+Pad D2-1(13.462mm,39.572mm)  Multi-Layer
+Pad D1-2(13.97mm,14.859mm)  Multi-Layer
+Pad D1-1(13.97mm,4.699mm)  Multi-Layer
+Pad C7-2(37.592mm,42.493mm)  Multi-Layer
+Pad C7-1(37.592mm,37.413mm)  Multi-Layer
+Pad C6-2(36.576mm,30.428mm)  Multi-Layer
+Pad C6-1(36.576mm,25.348mm)  Multi-Layer
+Pad C1-1(15.367mm,46.684mm)  Multi-Layer
+Pad C1-2(15.367mm,44.144mm)  Multi-Layer
+Pad C2-1(12.446mm,19.431mm)  Multi-Layer
+Pad C2-2(14.986mm,19.431mm)  Multi-Layer
+Pad C3-1(22.082mm,45.668mm)  Multi-Layer
+Pad C3-2(20.082mm,45.668mm)  Multi-Layer
+Pad R1-1(10.795mm,49.732mm)  Multi-Layer
+Pad R1-2(10.795mm,39.572mm)  Multi-Layer
+Pad R2-1(35.56mm,49.732mm)  Multi-Layer
+Pad R2-2(25.4mm,49.732mm)  Multi-Layer
+Pad R4-1(13.716mm,34.29mm)  Multi-Layer
+Pad R4-2(13.716mm,24.13mm)  Multi-Layer
+Pad U1-4(33.274mm,42.799mm)  Multi-Layer
+Pad U1-5(25.654mm,42.799mm)  Multi-Layer
+Pad U1-8(25.654mm,35.179mm)  Multi-Layer
+Pad U1-7(25.654mm,37.719mm)  Multi-Layer
+Pad U1-6(25.654mm,40.259mm)  Multi-Layer
+Pad U1-3(33.274mm,40.259mm)  Multi-Layer
+Pad U1-2(33.274mm,37.719mm)  Multi-Layer
+Pad U1-1(33.274mm,35.179mm)  Multi-Layer
+Pad U2-4(25.527mm,32.131mm)  Multi-Layer
+Pad U2-5(25.527mm,24.511mm)  Multi-Layer
+Pad U2-8(33.147mm,24.511mm)  Multi-Layer
+Pad U2-7(30.607mm,24.511mm)  Multi-Layer
+Pad U2-6(28.067mm,24.511mm)  Multi-Layer
+Pad U2-3(28.067mm,32.131mm)  Multi-Layer
+Pad U2-2(30.607mm,32.131mm)  Multi-Layer
+Pad U2-1(33.147mm,32.131mm)  Multi-Layer
+Pad J1-1(25.313mm,5.461mm)  Multi-Layer
+Pad J1-2(30.313mm,5.461mm)  Multi-Layer
+Pad R5-3(5.842mm,28.321mm)  Multi-Layer
+Pad R5-2(5.842mm,30.861mm)  Multi-Layer
+Pad R5-1(5.842mm,33.401mm)  Multi-Layer
+Pad R3-1(10.922mm,34.29mm)  Multi-Layer
+Pad R3-2(10.922mm,24.13mm)  Multi-Layer
+Pad C4-1(22.352mm,27.686mm)  Multi-Layer
+Pad C4-2(22.352mm,30.226mm)  Multi-Layer
+Pad Free-2(5mm,5mm)  Multi-Layer
+Pad Free-1(5mm,48.796mm)  Multi-Layer
+Pad C8-2(43.561mm,40.275mm)  Multi-Layer
+Pad C8-1(43.561mm,42.275mm)  Multi-Layer
+Pad Free-0(43.641mm,48.796mm)  Multi-Layer
+Pad Free-2(44.022mm,5mm)  Multi-Layer
+Pad J2-1(43.688mm,26.785mm)  Multi-Layer
+Pad J2-2(43.688mm,31.785mm)  Multi-Layer
+
+Via teardrops failed : 0
+
+

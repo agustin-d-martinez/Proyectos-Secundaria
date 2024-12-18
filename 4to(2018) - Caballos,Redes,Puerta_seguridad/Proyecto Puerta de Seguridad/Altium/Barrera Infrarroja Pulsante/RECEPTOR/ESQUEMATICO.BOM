@@ -1,0 +1,18 @@
+Bill of Material for 
+On 30/10/2018 at 18:29:29
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 100nF               CAP200           1    C2                                                
+ 10K                 PRESET V         2    R1, R2                                            
+ 10K                 RES400           1    R6                                                
+ 10uF                CAP100RP         1    C1                                                
+ 1N4148              DO41             1    D2                                                
+ 1N5819              DO41             1    D1                                                
+ 22K                 RES400           1    R4                                                
+ 330                 RES400           1    R3                                                
+ 50K                 PRESET V         1    R5                                                
+ ALIMENTACION        BORNERA3         1    J1                                                
+ LM339               DIP14            1    U1                           Comparador Open Collector 
+ PT908-7C            pototransistor    1    T1                           fototransistor       
+ SALIDA              BORNERA2         1    J2                                                

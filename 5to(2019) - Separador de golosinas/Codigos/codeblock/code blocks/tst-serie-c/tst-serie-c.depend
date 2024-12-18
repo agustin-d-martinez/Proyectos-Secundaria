@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1408411750 source:c:\users\digitales ii\desktop\tst-serie-c\tst-serie-c\seriewin32.c
+	<windows.h>
+
+1572463731 source:c:\users\digitales ii\desktop\tst-serie-c\tst-serie-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"seriewin32.h"
+
+1408411750 c:\users\digitales ii\desktop\tst-serie-c\tst-serie-c\seriewin32.h
+
+1408411750 source:c:\users\guido spataro\desktop\tst-serie-c\tst-serie-c\seriewin32.c
+	<windows.h>
+
+1572477747 source:c:\users\guido spataro\desktop\tst-serie-c\tst-serie-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"seriewin32.h"
+
+1408411750 c:\users\guido spataro\desktop\tst-serie-c\tst-serie-c\seriewin32.h
+
+1572472218 source:c:\users\guido spataro\desktop\code blocks\tst-serie-c\seriewin32.c
+	<windows.h>
+
+1572486513 source:c:\users\guido spataro\desktop\code blocks\tst-serie-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"seriewin32.h"
+
+1408411750 c:\users\guido spataro\desktop\code blocks\tst-serie-c\seriewin32.h
+
+1572472218 source:c:\users\digitales i\downloads\code blocks\tst-serie-c\seriewin32.c
+	<windows.h>
+
+1572472216 source:c:\users\digitales i\downloads\code blocks\tst-serie-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"seriewin32.h"
+
+1572472220 c:\users\digitales i\downloads\code blocks\tst-serie-c\seriewin32.h
+
+1574011539 source:c:\users\guido spataro\documents\colegio\pendrive cap\5to aÑo\proyecto 2019-separador de golosinas\cÓdigo\codeblock\code blocks\tst-serie-c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1572472218 source:c:\users\guido spataro\documents\colegio\pendrive cap\5to aÑo\proyecto 2019-separador de golosinas\cÓdigo\codeblock\code blocks\tst-serie-c\seriewin32.c
+	<windows.h>
+
