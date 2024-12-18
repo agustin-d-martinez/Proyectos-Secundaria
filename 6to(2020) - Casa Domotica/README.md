@@ -5,6 +5,6 @@
 	Debido a la sitaución mundial en dicho proyecto, el mismo fue realizado en partes, terminado y expuesto en una reunion de Zoom. Su implementación fue realizada en maqueta con elementos hogareños. De todas formas, el funcionamiento del mismo fue un éxito.
 	Se utilizó para la comunicación un módulo ESP32 manejado por puerto serie con comandos AT, por lo que no se utilizó ningún código en Arduino.
 
-	## Firmware
+## Firmware
 	- Placa: KL25Z.
 	- Software: mbedStudio, AppInvetor. 
