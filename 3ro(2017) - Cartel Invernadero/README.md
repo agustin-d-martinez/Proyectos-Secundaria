@@ -5,5 +5,5 @@
 	Se utilizó un sensor DHT32.
 
 ## Firmware
-	- Placa: Arduino UNO.
-	- Software: Arduino.
+-	Placa: Arduino UNO.
+-	Software: Arduino.

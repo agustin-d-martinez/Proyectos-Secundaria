@@ -6,6 +6,6 @@
 	Su funcionamiento fue fructuante debido a la mala resolución de colores que se logró con el sensor.
 
 ## Firmware
-	- Placa: MC9S08SH8.
-	- Software: CodeBlocks, CodeWarrior.
+-	Placa: MC9S08SH8.
+-	Software: CodeBlocks, CodeWarrior.
 
