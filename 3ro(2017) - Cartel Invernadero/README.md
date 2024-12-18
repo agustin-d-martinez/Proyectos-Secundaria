@@ -4,6 +4,6 @@
 	La estructura fue realizada con una impresión 3D con paredes finas, de forma que todos los leds se encontraban dentro de la misma y la luz podía penetrarla (evitando el contacto con el usuario).
 	Se utilizó un sensor DHT32.
 
-	## Firmware
+## Firmware
 	- Placa: Arduino UNO.
 	- Software: Arduino.
