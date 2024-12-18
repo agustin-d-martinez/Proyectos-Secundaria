@@ -7,4 +7,4 @@
 
 	## Firmware
 	- Placa: KL25Z.
-	- Software: ??, AppInvetor. 
+	- Software: mbedStudio, AppInvetor. 

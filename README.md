@@ -36,8 +36,8 @@
 	Su funcionamiento fue fructuante.
 
 	### Firmware
-	- Placa: ??.
-	- Software: CodeBlocks, ??.
+	- Placa: MC9S08SH8.
+	- Software: CodeBlocks, CodeWarrior.
 
 ## Casa Domótica
 	Proyecto de finalización de la carrera. Debido a la época (Aislamiento por Covid-19) todos los modelos poseen 2 versiones. Una real para la creación de dicho proyecto y otra a escala para la demostración en el hogar.
@@ -45,4 +45,4 @@
 	
 	### Firmware
 	- Placa: KL25Z.
-	- Software: ??, AppInvetor. 
+	- Software: mbedStudio, AppInvetor. 
